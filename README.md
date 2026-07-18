@@ -1,6 +1,6 @@
 Hello everyone ! Welcome to my Electrical Engineering self - study repository
 This repository is where I keep track of my self - study and everything I learn about the field I want to pursue in the future.
-Right now, my goal is become an engineer in the semiconductor industry,  and I am especially interested in Design for Test ( DFT ). I know this will not be an esay journey. It will take a lot of time, patience and effort but I do know that I will not give up
+Right now, my goal is become an engineer in the semiconductor industry,  and I am especially interested in Design for Test ( DFT ). I know this will not be an esay journey. It will take a lot of time, patience and effort but I do know that I will not give up.
 For now... Let's started! ψ(｀∇´)ψ
 
 1. Objectives ( •̀ ω •́ )✧
